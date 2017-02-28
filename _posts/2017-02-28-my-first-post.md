@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My First Post with Jekyll!"
 ---
 This is my first attempt at using Jekyll and Markdown.
