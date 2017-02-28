@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "DRRNMAC"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Darren Macmillan"
-description              : "MSP Extraordinaire"
-url                      : "https://drrnmac.com"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "drrnmac"
+  username               :
 facebook:
   username               :
   app_id                 :
